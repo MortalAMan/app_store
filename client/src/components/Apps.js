@@ -10,6 +10,7 @@ import {
   Dropdown, 
   Divider,
   Button,
+  Segment,
 } from 'semantic-ui-react';
 
 class Apps extends React.Component {
